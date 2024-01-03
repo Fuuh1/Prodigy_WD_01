@@ -1,0 +1,57 @@
+*{
+    padding: 0% ;
+    margin: 0%;
+}
+#about{
+    text-align: center;
+}
+ul {
+
+    background-color: #2a2533;
+    display: flex;
+    padding: 2%;
+    margin: 0%;
+    gap: 100px;
+    list-style-type: none;
+    
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+ul a:hover{
+    background-color: rgb(48, 86, 119);
+}
+#head{
+    font-size: 90px;
+    display: flex;
+    justify-content: center;
+    padding: 20%;
+    background-image: url(tree-736885_1280.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-position: top;
+    color: aquamarine;
+    
+
+}
+.footer{
+    background-color: rgba(16, 19, 19, 0.849);
+    padding: 4%;
+
+    
+    
+}
+.flex {
+    display: flex;
+    justify-content: space-around;   
+}
+.flex a:hover{
+    background-color: rgba(8, 104, 80, 0.801);
+    
+}
+.credit{
+    display: flex;
+    justify-content: center;
+    color: bisque;
+}
